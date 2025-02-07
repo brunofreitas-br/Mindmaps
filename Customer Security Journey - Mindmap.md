@@ -145,10 +145,30 @@ markmap:
 - [Secure Score](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score)  
 - [Inventário de Assets (Multi-cloud)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/asset-inventory)
 
+## Gerenciamento Avançado de Postura de Segurança
 ### Defender CSPM (Defender for Cloud)
 - [Assessments (Regulamentações e Frameworks de Indústria)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-regulatory-compliance-standards)  
 - [Postura de Segurança com Reconhecimento de Dados (DSPM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-data-security-posture)  
 - [Análise de Caminhos de Ataque (Attack Paths)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/how-to-manage-attack-path)
+- [Gerenciamento de Segurança de DevOps em ambientes multipipeline](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction)
+
+## Proteção de Workloads em Nuvem (CWP)
+### Defender for Servers
+- [Proteção Avançada para Servidores (EPP, EDR & TVM | On-Prem & Multi-Cloud)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-servers-overview)
+### Defender for App Service
+- [Proteção Avançada para Azure App Service](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-app-service-introduction)
+### Defender for Databases
+- [Proteção Avançada para DBs (On-Prem & Multi-Cloud)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-databases-overview)
+### Defender for Containers
+- [Proteção avançada para Containers (Multi-Cloud)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-containers-introduction)
+### Defender for Key Vault
+- [Proteção Avançada para Azure Key Vault](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-key-vault-introduction)
+### Defender for Storage
+- [Proteção Avançada para Azure Storage Accounts](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-storage-introduction)
+### Defender for APIs
+- [Proteção avançada para APIs publicadas via APIM](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-apis-introduction)
+### Defender for AI
+- [Proteção avançada para Azure Open-AI](https://learn.microsoft.com/en-us/azure/defender-for-cloud/ai-threat-protection)
 
 ---
 
